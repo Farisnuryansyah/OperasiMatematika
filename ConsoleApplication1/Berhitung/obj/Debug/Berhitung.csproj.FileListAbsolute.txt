@@ -1,0 +1,5 @@
+c:\users\fariss\onedrive\documents\visual studio 2012\Projects\ConsoleApplication1\Berhitung\bin\Debug\Berhitung.exe.config
+c:\users\fariss\onedrive\documents\visual studio 2012\Projects\ConsoleApplication1\Berhitung\bin\Debug\Berhitung.exe
+c:\users\fariss\onedrive\documents\visual studio 2012\Projects\ConsoleApplication1\Berhitung\bin\Debug\Berhitung.pdb
+c:\users\fariss\onedrive\documents\visual studio 2012\Projects\ConsoleApplication1\Berhitung\obj\Debug\Berhitung.exe
+c:\users\fariss\onedrive\documents\visual studio 2012\Projects\ConsoleApplication1\Berhitung\obj\Debug\Berhitung.pdb
